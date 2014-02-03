@@ -1,6 +1,6 @@
 import java.lang.Math;
 /**********************************************************************/
-// author: caleb tebbe
+// author: crt
 // cs420 homework
 // van Emde Boas trees:  supports priority queue operations on elements
 // in a fixed range [i, i+n-1] in O(log log n) time.
